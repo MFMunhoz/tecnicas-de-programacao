@@ -1,0 +1,12 @@
+// Este arquivo será preenchido pelos alunos.
+
+// Contribuição de Wellington
+def wellington():
+    return "2571392422005"
+
+print(wellington())
+
+def elias():
+    return "2571392422032"
+
+print(elias())
